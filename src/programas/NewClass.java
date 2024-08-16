@@ -51,5 +51,6 @@ public class NewClass {
         System.out.println("Ahorro mensual: " + ahorroMensual);
         System.out.println("Ahorro anual proyectado: " + ahorroAnual);
         //fin de las instrucciones version 1.0
+        //
     }
 }
